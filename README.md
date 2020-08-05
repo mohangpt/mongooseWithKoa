@@ -2,14 +2,14 @@
 sample for koa server to learn middleware and mongoose
 learning goals
 
-1. mongoose
-   i. making a db
-   ii. connecting it to code
-   iii. preparing schema
-   iV. preparng model
+### mongoose
+   #### making a db
+   #### connecting it to code
+   #### preparing schema
+   #### preparng model
  
-2. koa routing
-    i. prepararing server
-    ii. understanding middlewares
-    iii. preparing routes
+### koa routing
+   #### prepararing server
+   #### understanding middlewares
+   #### preparing routes
 
